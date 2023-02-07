@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+>
+
+    <item
+        android:drawable="@android:color/white"/>
+        <item android:gravity="center" 
+       android:drawable="@drawable/splashold3"/>  
+
+     <!-- <item android:width="110dp" android:gravity="center" 
+        android:height="110dp" android:drawable="@mipmap/ic_launcher"/>  -->
+    
+     <!-- <item android:windowBackground="@drawable/splash" />  -->
+    
+   
+
+</layer-list>

@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "980987223420",
+    "project_id": "project-star-97d8b",
+    "storage_bucket": "project-star-97d8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980987223420:android:38985689ceeb8fbe1958f9",
+        "android_client_info": {
+          "package_name": "com.starqa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980987223420-erikgp1ju9d0es8p3b244uqgito4as7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSiDL8iaNXEImwe7dw1uQM4d2uX0jULUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980987223420-erikgp1ju9d0es8p3b244uqgito4as7a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "980987223420-8lit9e4rpdblq5bmbsqpit4e090feuqa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.star"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980987223420:android:f5cacbb716526f481958f9",
+        "android_client_info": {
+          "package_name": "com.staruat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980987223420-erikgp1ju9d0es8p3b244uqgito4as7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSiDL8iaNXEImwe7dw1uQM4d2uX0jULUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980987223420-erikgp1ju9d0es8p3b244uqgito4as7a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "980987223420-8lit9e4rpdblq5bmbsqpit4e090feuqa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.star"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,65 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/CircularStd-Bold.ttf",
+      "sha1": "6c0398509c23a40fe104e1e08b9f7941f832e8b7"
+    },
+    {
+      "path": "src/assets/fonts/CircularStd-Book.ttf",
+      "sha1": "8627a1f9581109edb203e2a4f71f872aeb6a8468"
+    },
+    {
+      "path": "src/assets/fonts/CircularStd-Medium.ttf",
+      "sha1": "9da87dbad276ad2513db723955de1c68cf11a41f"
+    },
+    {
+      "path": "src/assets/fonts/HKGrotesk-Bold.ttf",
+      "sha1": "951559435bb109a422da130121235b79c0aa7b03"
+    },
+    {
+      "path": "src/assets/fonts/HKGrotesk-BoldLegacy.ttf",
+      "sha1": "6133c7e58766c2a6817e270746acda17e85c3197"
+    },
+    {
+      "path": "src/assets/fonts/HKGrotesk-Light.ttf",
+      "sha1": "fd2a6395e0d5c49fdcbf61b5aa5ee8ddc8f4536a"
+    },
+    {
+      "path": "src/assets/fonts/HKGrotesk-Medium.ttf",
+      "sha1": "6928596e3f9076de99564862afa3702785d60d6f"
+    },
+    {
+      "path": "src/assets/fonts/HKGrotesk-Regular.ttf",
+      "sha1": "b35653d34f64a128da4d4bd291bd56bb8974da00"
+    },
+    {
+      "path": "src/assets/fonts/HKGrotesk-SemiBold.ttf",
+      "sha1": "c77d172ec4be1a9953f30405f074b3f2f235f71f"
+    },
+    {
+      "path": "src/assets/fonts/Oswald-Bold.ttf",
+      "sha1": "e5206a279b40b770208048f23603884cd897fc16"
+    },
+    {
+      "path": "src/assets/fonts/Oswald-ExtraLight.ttf",
+      "sha1": "89fb89face6ad74b1780cad188cae340cf098b60"
+    },
+    {
+      "path": "src/assets/fonts/Oswald-Light.ttf",
+      "sha1": "6574c5521f8a3b826ec9fe9168abab4952b613b1"
+    },
+    {
+      "path": "src/assets/fonts/Oswald-Medium.ttf",
+      "sha1": "ca4a320fff4f5fc7c47c903790f9c903c5f8c3ba"
+    },
+    {
+      "path": "src/assets/fonts/Oswald-Regular.ttf",
+      "sha1": "fae45bbd33c5881541f98444eeaaaa9f211daf07"
+    },
+    {
+      "path": "src/assets/fonts/Oswald-SemiBold.ttf",
+      "sha1": "47afe5a5bd76816a82bf2d3749da93430b629235"
+    }
+  ]
+}

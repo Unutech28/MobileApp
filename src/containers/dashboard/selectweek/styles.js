@@ -1,0 +1,143 @@
+import GLOBALS from "@constants";
+import { Platform } from "react-native";
+const { STRINGS, COLOR, FONTS } = GLOBALS;
+import { RFValue, RFPercentage } from 'react-native-responsive-fontsize';
+const isiOS = Platform.OS == "ios";
+export default {
+    logoView: {
+        justifyContent: "center",
+        alignItems: "center",
+        marginTop: RFValue(20),
+      },
+      logoStyle: {
+        height: RFPercentage(25),
+        width: RFPercentage(35),
+      },
+      textStyle: {
+        fontFamily: FONTS.LIGHT,
+        fontSize: RFValue(16),
+      },
+      regularText: {
+        fontFamily: FONTS.REGULAR,
+      },
+      capImage: {
+        height: RFPercentage(isiOS ? 4 : 5),
+        width: RFPercentage(isiOS ? 4 : 5),
+        alignSelf: "flex-start",
+        // tintColor: '#FFF'
+      },
+      section: {
+        flex: 0.2,
+        overflow: "hidden",
+        paddingLeft: RFPercentage(2.5),
+        justifyContent: "center",
+        paddingTop: isiOS ? 2 : 5,
+      },
+      dropDownStyle: {
+        backgroundColor: COLOR.WHITE,
+        shadowColor: COLOR.DARK_GREEN,
+        shadowOffset: { width: 0.5, height: 11 },
+        shadowOpacity: 0.2,
+        shadowRadius: 5,
+        padding: RFValue(16),
+        elevation: 10,
+        paddingTop: RFValue(13),
+        borderRadius: RFPercentage(1),
+        borderColor: COLOR.DARK_GREEN,
+        borderWidth: 0.5,
+        height: RFValue(50),
+        marginHorizontal: RFValue(16),
+        borderBottomColor: COLOR.DARK_GREEN,
+      },
+      dropDownStyleNew: {
+        backgroundColor: COLOR.WHITE,
+        shadowColor: COLOR.DARK_GREEN,
+        shadowOffset: { width: 0.5, height: 11 },
+        shadowOpacity: 0.2,
+        shadowRadius: 5,
+        padding: RFValue(16),
+        // elevation: 10,
+        paddingTop: RFValue(13),
+        borderRadius: RFPercentage(1),
+        borderColor: COLOR.DARK_GREEN,
+        borderWidth: 0.5,
+        height: RFValue(50),
+        marginHorizontal: RFValue(16),
+        borderBottomColor: COLOR.DARK_GREEN,
+        alignSelf: "center",
+        //   width: '90%'
+      },
+      buttonView: {
+        paddingHorizontal: RFValue(16),
+        width: "100%",
+        position: "absolute",
+        justifyContent: "center",
+        bottom: RFValue(30),
+      },
+      arrowStyle: {
+        height: RFValue(6),
+        width: RFValue(12),
+        alignSelf: "flex-end",
+        marginTop: -35,
+        paddingRight: 40,
+      },
+      dayView: {
+        marginTop: RFValue(20),
+        flexDirection: "row",
+        justifyContent: "space-between",
+        alignItems: "center",
+        marginHorizontal: RFValue(30),
+      },
+      dayText: {
+        color: COLOR.PRIMARY,
+        fontSize: RFValue(14),
+        fontFamily: FONTS.CIRCULAR_BOLD,
+        textAlign: "center",
+      },
+      dayTouchable: {
+        paddingVertical: RFValue(10),
+        paddingHorizontal: RFValue(6),
+        borderRadius: RFValue(40),
+        borderColor: COLOR.PRIMARY,
+        borderWidth: 1,
+        marginBottom: RFValue(8),
+        margin: RFValue(2),
+      },
+      dayText1: {
+        fontSize: RFValue(14),
+        fontFamily: FONTS.CIRCULAR_MEDIUM,
+      },
+      dayViewStyle: {
+        marginTop: 4,
+        borderRadius: 12,
+        width: 24,
+        height: 24,
+        justifyContent: "center",
+        alignSelf: "center",
+      },
+      stageContainer: {
+        borderWidth: 0.5,
+        flexDirection: "row",
+        marginTop: RFPercentage(1.2),
+        width: "90%",
+        marginLeft: "auto",
+        marginRight: "auto",
+        borderRadius: RFValue(7),
+        borderColor: COLOR.WHITE,
+        overflow: "hidden",
+        backgroundColor: COLOR.WHITE,
+      },
+      stageText: {
+        alignSelf: "center",
+        padding: RFValue(10),
+        fontFamily: FONTS.MEDIUM,
+        fontSize: RFValue(isiOS ? RFValue(14) : RFValue(16)),
+        color: COLOR.LIGHT,
+        fontWeight: "500",
+        flex: 0.9,
+      },
+      homeContainer: {
+        flex: 1,
+        backgroundColor: COLOR.WHITE,
+      },
+}

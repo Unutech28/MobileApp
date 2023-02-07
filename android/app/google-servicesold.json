@@ -1,0 +1,550 @@
+{
+  "project_info": {
+    "project_number": "451561405074",
+    "project_id": "stella2-0-d0b74",
+    "storage_bucket": "stella2-0-d0b74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451561405074:android:e94aea0089ee25d28ec44b",
+        "android_client_info": {
+          "package_name": "com.curioStellaTwo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451561405074-blleojko84isrdp8mt3k8mob41p2ne7j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.curioStellaTwo",
+            "certificate_hash": "9683338e1f7f4dd1634c5b1aabb11f64adc0b3cb"
+          }
+        },
+        {
+          "client_id": "451561405074-kk0ql8pqjrp3sunnthve64hb5ff4fro5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.curioStellaTwo",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "451561405074-vp8crdoos1bhq564jthc34jhtl4saddi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.curioStellaTwo",
+            "certificate_hash": "f3507103ad004e55b802fa077837b10344551ff9"
+          }
+        },
+        {
+          "client_id": "451561405074-3fs8reijaol0p78hfcqve2m64omv87v2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFYeMX9-erDh3yIwa0iplCKxlBbnuT8NI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451561405074-3fs8reijaol0p78hfcqve2m64omv87v2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "451561405074-024gac5o75g9bf9s9tjk3kdsg17r0pit.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mamaLiftPlusSham",
+                "app_store_id": "1622750462"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451561405074:android:3d468f7b4b83d9628ec44b",
+        "android_client_info": {
+          "package_name": "com.demoMLPQA"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451561405074-lhmp6u7n82mgjcr6d2qje0bmff15hl36.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.demoMLPQA",
+            "certificate_hash": "9683338e1f7f4dd1634c5b1aabb11f64adc0b3cb"
+          }
+        },
+        {
+          "client_id": "451561405074-3fs8reijaol0p78hfcqve2m64omv87v2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFYeMX9-erDh3yIwa0iplCKxlBbnuT8NI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451561405074-3fs8reijaol0p78hfcqve2m64omv87v2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "451561405074-024gac5o75g9bf9s9tjk3kdsg17r0pit.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mamaLiftPlusSham",
+                "app_store_id": "1622750462"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451561405074:android:80736df9c4e5cbe08ec44b",
+        "android_client_info": {
+          "package_name": "com.mamalift"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451561405074-mdftbqt8rckjuprb9qvbveo0he10ro0n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mamalift",
+            "certificate_hash": "9683338e1f7f4dd1634c5b1aabb11f64adc0b3cb"
+          }
+        },
+        {
+          "client_id": "451561405074-3fs8reijaol0p78hfcqve2m64omv87v2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFYeMX9-erDh3yIwa0iplCKxlBbnuT8NI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451561405074-3fs8reijaol0p78hfcqve2m64omv87v2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "451561405074-024gac5o75g9bf9s9tjk3kdsg17r0pit.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mamaLiftPlusSham",
+                "app_store_id": "1622750462"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451561405074:android:f3ceec1eeea5eb5a8ec44b",
+        "android_client_info": {
+          "package_name": "com.mlpQA"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451561405074-9cai56fipahheca7uc86lv54vr9dum59.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mlpQA",
+            "certificate_hash": "9683338e1f7f4dd1634c5b1aabb11f64adc0b3cb"
+          }
+        },
+        {
+          "client_id": "451561405074-3fs8reijaol0p78hfcqve2m64omv87v2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFYeMX9-erDh3yIwa0iplCKxlBbnuT8NI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451561405074-3fs8reijaol0p78hfcqve2m64omv87v2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "451561405074-024gac5o75g9bf9s9tjk3kdsg17r0pit.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mamaLiftPlusSham",
+                "app_store_id": "1622750462"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451561405074:android:03e4b41e7e14c62f8ec44b",
+        "android_client_info": {
+          "package_name": "com.shamProd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451561405074-3fs8reijaol0p78hfcqve2m64omv87v2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFYeMX9-erDh3yIwa0iplCKxlBbnuT8NI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451561405074-3fs8reijaol0p78hfcqve2m64omv87v2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "451561405074-024gac5o75g9bf9s9tjk3kdsg17r0pit.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mamaLiftPlusSham",
+                "app_store_id": "1622750462"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451561405074:android:369305e530332f8f8ec44b",
+        "android_client_info": {
+          "package_name": "com.shamQA"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451561405074-75kd7a4gpb6nj45cklr4pv3k306li55p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shamQA",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "451561405074-o9fsi1nedje5o751ms4agd0n7hpkmbua.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shamQA",
+            "certificate_hash": "f3507103ad004e55b802fa077837b10344551ff9"
+          }
+        },
+        {
+          "client_id": "451561405074-q5j7mt8v4agt8ohh5iibgkpb9jvt9cmm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shamQA",
+            "certificate_hash": "9683338e1f7f4dd1634c5b1aabb11f64adc0b3cb"
+          }
+        },
+        {
+          "client_id": "451561405074-3fs8reijaol0p78hfcqve2m64omv87v2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFYeMX9-erDh3yIwa0iplCKxlBbnuT8NI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451561405074-3fs8reijaol0p78hfcqve2m64omv87v2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "451561405074-024gac5o75g9bf9s9tjk3kdsg17r0pit.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mamaLiftPlusSham",
+                "app_store_id": "1622750462"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451561405074:android:197fe1b166d8d7718ec44b",
+        "android_client_info": {
+          "package_name": "com.stella"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451561405074-b9drjlngdv1jvhd4g27sg45t3qe4u81c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stella",
+            "certificate_hash": "9683338e1f7f4dd1634c5b1aabb11f64adc0b3cb"
+          }
+        },
+        {
+          "client_id": "451561405074-3fs8reijaol0p78hfcqve2m64omv87v2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFYeMX9-erDh3yIwa0iplCKxlBbnuT8NI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451561405074-3fs8reijaol0p78hfcqve2m64omv87v2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "451561405074-024gac5o75g9bf9s9tjk3kdsg17r0pit.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mamaLiftPlusSham",
+                "app_store_id": "1622750462"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451561405074:android:8c9eac55f6c9ab148ec44b",
+        "android_client_info": {
+          "package_name": "com.stellaUAT"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451561405074-h17fjm81i88plf0d36hfrf51a3gc431u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stellaUAT",
+            "certificate_hash": "9683338e1f7f4dd1634c5b1aabb11f64adc0b3cb"
+          }
+        },
+        {
+          "client_id": "451561405074-3fs8reijaol0p78hfcqve2m64omv87v2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFYeMX9-erDh3yIwa0iplCKxlBbnuT8NI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451561405074-3fs8reijaol0p78hfcqve2m64omv87v2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "451561405074-024gac5o75g9bf9s9tjk3kdsg17r0pit.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mamaLiftPlusSham",
+                "app_store_id": "1622750462"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451561405074:android:579ff8714ccd87718ec44b",
+        "android_client_info": {
+          "package_name": "com.summerProd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451561405074-3fs8reijaol0p78hfcqve2m64omv87v2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFYeMX9-erDh3yIwa0iplCKxlBbnuT8NI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451561405074-3fs8reijaol0p78hfcqve2m64omv87v2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "451561405074-024gac5o75g9bf9s9tjk3kdsg17r0pit.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mamaLiftPlusSham",
+                "app_store_id": "1622750462"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451561405074:android:74fd204bddc35a448ec44b",
+        "android_client_info": {
+          "package_name": "qa.mamalift"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451561405074-elg0o184pmjvd62ukrfip9cuelfeopno.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "qa.mamalift",
+            "certificate_hash": "9683338e1f7f4dd1634c5b1aabb11f64adc0b3cb"
+          }
+        },
+        {
+          "client_id": "451561405074-3fs8reijaol0p78hfcqve2m64omv87v2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFYeMX9-erDh3yIwa0iplCKxlBbnuT8NI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451561405074-3fs8reijaol0p78hfcqve2m64omv87v2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "451561405074-024gac5o75g9bf9s9tjk3kdsg17r0pit.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mamaLiftPlusSham",
+                "app_store_id": "1622750462"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451561405074:android:fb9877360792ec048ec44b",
+        "android_client_info": {
+          "package_name": "uat.mshsCU001"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451561405074-3fs8reijaol0p78hfcqve2m64omv87v2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFYeMX9-erDh3yIwa0iplCKxlBbnuT8NI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451561405074-3fs8reijaol0p78hfcqve2m64omv87v2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "451561405074-024gac5o75g9bf9s9tjk3kdsg17r0pit.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mamaLiftPlusSham",
+                "app_store_id": "1622750462"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451561405074:android:d35159e5670c59338ec44b",
+        "android_client_info": {
+          "package_name": "uat.pregnancy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451561405074-3fs8reijaol0p78hfcqve2m64omv87v2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFYeMX9-erDh3yIwa0iplCKxlBbnuT8NI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451561405074-3fs8reijaol0p78hfcqve2m64omv87v2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "451561405074-024gac5o75g9bf9s9tjk3kdsg17r0pit.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mamaLiftPlusSham",
+                "app_store_id": "1622750462"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
